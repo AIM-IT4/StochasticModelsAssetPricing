@@ -21,7 +21,8 @@ Where:
 - \(\kappa\) is the rate at which \(v_t\) reverts to \(	heta\)
 - \(	heta\) is the long-term variance
 - \(\sigma\) is the volatility of volatility
-- \(dW^S_t\) and \(dW^v_t\) are Wiener processes (Brownian motions) with correlation \(ho\)
+- \(dW^S_t\) and \(dW^v_t\) are Wiener processes (Brownian motions) with correlation \(
+ho\)
 
 ## Merton Model
 
