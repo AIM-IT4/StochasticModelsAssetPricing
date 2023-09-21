@@ -27,7 +27,8 @@ Where:
 - \(\kappa\): Rate of reversion to \(	heta\)
 - \(	heta\): Long-term variance
 - \(\sigma\): Volatility of volatility
-- \(dW^S_t\) and \(dW^v_t\): Wiener processes (Brownian motions) with correlation \(ho\)
+- \(dW^S_t\) and \(dW^v_t\): Wiener processes (Brownian motions) with correlation \(
+ho\)
 
 ### Implementation:
 
